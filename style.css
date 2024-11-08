@@ -1,0 +1,63 @@
+ 
+
+ }
+
+ .head{ 
+    width: 400px;
+    height: 100px;
+    background-color:gold;
+    margin-top: 25px;
+    margin-left: 25px;
+    border: 3px solid black;
+    padding: 25px;
+    text-align: center;
+ }
+body {
+    background-color:white;
+    font-family:"Itim",arial,sans-serif;
+    font-weight: bold;
+background-color: green;
+}                               
+
+/* website Styles*/
+*{                                                      font-size: 100%;
+}
+
+h1 {
+    color:white;
+    font-size:  50px;
+    text-align: center;
+    font-weight:normal;
+    font-style:oblique,Itim,ariel;
+
+}
+
+h2{
+    color: white;
+    font-size:  100px;
+    font-weight: normal;
+    text-align: center;
+    font-style:oblique,Itim,ariel;
+    text-underline-offset:solid ;
+
+}
+h3{
+    color:white;
+    font-size: 50px;
+    text-align: center ;
+    font-style: oblique;
+    
+}
+p { 
+    color:black
+;
+    text-align: center;
+
+} 
+
+ div {
+    margin: 24px;
+ } 
+
+
+/*  */
